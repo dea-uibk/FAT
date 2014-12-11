@@ -7,7 +7,7 @@ INSTALLATION:
 - Compile program and start using 'FAT.exe'
 - Make sure a masterlist "Masterlist.xlsx" is in the same folder
 	The original masterlist is not included in the opensource package as it contains confidential information
-	An example of a masterlist (Masterlist.xlsx.example) is included in this package however
+	An example of a masterlist (Masterlist.example.xlsx) is included in this package however
 	Two columns of the masterlist are used in the program:
 		UID: determines the valid values of newspaper foldernames
 		TELPresentation: if either set to '1' or '2' viewing files must be present in a subfolder called "viewing_files"
